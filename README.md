@@ -1,0 +1,10 @@
+pwd (Abrir la consola e imprimir la ubicación actual.)
+mkdir(Crear una carpeta llamada ejercicios desde la consola.)
+cd ejercicios/ (Cambiar la ubicación a la nueva carpeta que crearon.)
+code .(Abrir la carpeta con VSCode.)
+(En VSCode crear una carpeta ejercicio1.)
+(Crear un archivo llamado README.md (vacío) dentro de la carpeta ejercicio1.)
+git config --global user.name EdgarMont(Configurar nombre e email globalmente en git.)
+git config --global user.email montenegromontezuma@gmail.com
+git init (Inicializar el repositorio de git desde la línea de comandos desde la carpeta ejercicios.)
+git commit -m "Versión inicial" (Crear un primer commit con el mensaje “Versión Inicial”.)
